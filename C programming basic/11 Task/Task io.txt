@@ -1,0 +1,1 @@
+Input three number and two character using scanf() and output them using printf() .<br><br>

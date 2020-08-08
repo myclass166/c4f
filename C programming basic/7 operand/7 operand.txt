@@ -1,0 +1,1 @@
+sum = a+b <br><br>Here sum, a and b are operand.<br><br>10+15 . Here 10 and 15 are operand.

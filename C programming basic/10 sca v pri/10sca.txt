@@ -1,0 +1,7 @@
+At first scan function.<br><b>scanf("format specifier",&variable name);</b><br>In simple, input data saved to variable name.<br>In the example "%d" is format specifier which means the input type is integer and<br> &num means the input data saved to num.<br>num must be declared as int otherwise you may get error.<br><br>if the num declared as double data type then format specifier would be %lf (long float, 8bytes).<br><br><br>
+
+
+Here The output will be : this is a sample number 10.<br>%d has been replaced by value taken from num.<br>Because, the value of num is 10.<br>num must be declared as int otherwise you may get error.<br><br><br><br>
+
+
+Now run these code below for more clarity and see side indicator to know how it works basically.<br><br>

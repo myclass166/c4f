@@ -1,0 +1,1 @@
+A function is a block of code that performs a specific task.<br>There are two type of function.<br>- One is predefined and<br>- another is user defined.<br><br><b>printf() , scanf()</b> are predefined function.<br>User defined function may vary on different cases.<br> 
