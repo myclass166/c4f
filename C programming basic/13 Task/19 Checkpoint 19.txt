@@ -1,1 +1,0 @@
-Can you make a program which can<br>take three input(a,b,c)<br>and print the value of ( (a*a)+ (b-a) ) / c ).<br><br> 
